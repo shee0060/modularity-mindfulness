@@ -1,3 +1,7 @@
 html {
   font-family: 'Noto Sans', sans-serif;
 }
+
+header, section {
+  border-bottom: 3px solid #333;
+}
