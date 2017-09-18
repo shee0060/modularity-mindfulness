@@ -3,6 +3,12 @@ html {
   background-color: #e2e2e2;
 }
 
+.japanese
+
+{
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
 header, section {
   border-bottom: 3px solid #333;
 }
