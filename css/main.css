@@ -6,6 +6,10 @@ html {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
+.border {
+  border-bottom: 2px solid  #e2e2e2;
+}
+
 a {
   text-decoration: none;
   color: #b64c6e;
