@@ -13,7 +13,7 @@ html {
 a {
   text-decoration: none;
   color: #b64c6e;
-  border-bottom: 2px solid #b64c6e;
+  border-bottom: 1px solid #b64c6e;
 }
 
 a:hover {
@@ -22,11 +22,11 @@ a:hover {
 
 .btn-ghost {
   color: #b64c6e;
-  border: 3px solid #b64c6e;
+  border: 2px solid #b64c6e;
 }
 
 .btn-ghost:hover {
   color: #b64c6e;
-  border: 3px solid #b64c6e;
+  border: 2px solid #b64c6e;
   background-color: #d89fb0;
 }
