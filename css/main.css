@@ -30,3 +30,11 @@ a:hover {
   border: 2px solid #b64c6e;
   background-color: #d89fb0;
 }
+
+@media only screen and (min-width: 60em) {
+
+  h1, .rock {
+    text-align: left;
+  }
+
+}
